@@ -1,5 +1,13 @@
 #!/usr/bin/env bash
 
+## TODO
+#
+# * enable the version number to be supplied as first argument
+#
+# * convert to perl using getopts
+#
+# * add usage help with --help?
+
 # NOTE if the latest version changes then update it here
 SUBLIME_TEXT_VERSION="2.0.2"
 
